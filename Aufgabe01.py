@@ -9,3 +9,5 @@ elif randomNumber > 20 & randomNumber < 80:
     print("medium")
 elif randomNumber > 50:
     print("Large")
+
+print("test")
